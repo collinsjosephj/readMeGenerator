@@ -32,7 +32,7 @@ const questions = [
         type: 'input',
         name: 'tests',
         message: 'Provide test instructions:',
-        default: 'npm test',
+        default: 'default: npm test',
     },
     {
         type: 'list',
