@@ -47,7 +47,7 @@ This readMeGenerator CLI application empowers developers to create informative, 
 
 ## Link to Walk-Through Video
 
-[https://drive.google.com/file/d/1_mNmveazEtJmPzzN9v3TrjDOJ0majb-r/view?usp=sharing](url)
+[https://drive.google.com/file/d/1_mNmveazEtJmPzzN9v3TrjDOJ0majb-r/view?usp=sharing](https://github.com/collinsjosephj/readMeGenerator/blob/main/url)
 
 ## Contributing
 
