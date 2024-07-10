@@ -26,7 +26,6 @@ The readMeGenerator is a command line-based (CLI) application built with Node.js
 To install the readMeGenerator CLI application, ensure you have Node.js and npm installed on your machine (i.e, MacOS, Windows), then follow these steps:
 
 ```
-{
 # Clone the repository
 git clone https://github.com/collinsjosephj/readMeGenerator.git
 
@@ -35,8 +34,6 @@ cd readMeGenerator
 
 # Install dependencies
 npm install
-
-}
 ```
 
 ## Usage
