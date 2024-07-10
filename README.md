@@ -27,12 +27,15 @@ To install the readMeGenerator CLI application, ensure you have Node.js and npm 
 
 ```
 # Clone the repository
+
 git clone https://github.com/collinsjosephj/readMeGenerator.git
 
 # Navigate to the project directory
+
 cd readMeGenerator
 
 # Install dependencies
+
 npm install
 ```
 
@@ -40,8 +43,7 @@ npm install
 
 This readMeGenerator CLI application empowers developers to create informative, concise, and professional README files effortlessly. By guiding users through a series of intuitive prompts, this tool gathers all necessary project details and automatically generates a well-structured README in Markdown format. As touched on previously, this eliminates the need for users to remember or master the ins-and-outs of Markdown syntax, allowing them to focus on providing essential information about their project. Whether you're setting up a new repository or enhancing documentation for an existing project, the readMeGenerator CLI ensures that you're painting the best picture, with minimal effort.
 
-
-<img width="747" alt="Screenshot 2024-07-10 at 02 25 35" src="https://github.com/jakepears/readmeGenerator/assets/156174614/8fa987fe-bd1d-43d1-a912-9a7955c70a27">
+<img width="715" alt="Screenshot 2024-07-10 at 02 33 17" src="https://github.com/jakepears/readmeGenerator/assets/156174614/f6b77b56-3325-498f-a733-471c4463be93">
 
 ## Contributing
 
@@ -58,5 +60,7 @@ npm test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at 
-[collinsjosephj](mailto:collinsjosephj). You can find more of my work at 
-[collinsjosephj@gmail.com](https://github.com/collinsjosephj@gmail.com).
+[collinsjosephj](mailto:collinsjosephj). 
+
+You can find more of my work at 
+(https://github.com/collinsjosephj@gmail.com).
