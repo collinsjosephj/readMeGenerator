@@ -23,32 +23,37 @@ The readMeGenerator is a command line-based (CLI) application built with Node.js
 
 ## Installation
 
-To install the readMeGenerator CLI application, ensure you have Node.js and npm installed on your machine, then follow these steps:
+To install the readMeGenerator CLI application, ensure you have Node.js and npm installed on your machine (i.e, MacOS, Windows), then follow these steps:
 
 ```
 {
-## Clone the repository
-- git clone https://github.com/collinsjosephj/readMeGenerator.git
+# Clone the repository
+git clone https://github.com/collinsjosephj/readMeGenerator.git
 
+# Navigate to the project directory
+cd readMeGenerator
+
+# Install dependencies
+npm install
 
 }
 ```
 
-
-
 ## Usage
 
-Now that you have a transaction you need to understand its lifetime. Transactions are tied very closely to the event loop. If you make a transaction and return to the event loop without using it then the transaction will become inactive. The only way to keep the transaction active is to make a request on it. When the request is finished you'll get a DOM event and, assuming that the request succeeded, you'll have another opportunity to extend the transaction during that callback. If you return to the event loop without extending the transaction then it will become inactive, and so on. As long as there are pending requests the transaction remains active. Transaction lifetimes are really very simple but it might take a little time to get used to.
-
-
+This readMeGenerator CLI application empowers developers to create informative, concise, and professional README files effortlessly. By guiding users through a series of intuitive prompts, this tool gathers all necessary project details and automatically generates a well-structured README in Markdown format. As touched on previously, this eliminates the need for users to remember or master the ins-and-outs of Markdown syntax, allowing them to focus on providing essential information about their project. Whether you're setting up a new repository or enhancing documentation for an existing project, the readMeGenerator CLI ensures that you're painting the best picture, with minimal effort.
 
 ## Contributing
 
-Now that you have a transaction you need to understand its lifetime. Transactions are tied very closely to the event loop. If you make a transaction and return to the event loop without using it then the transaction will become inactive. The only way to keep the transaction active is to make a request on it. When the request is finished you'll get a DOM event and, assuming that the request succeeded, you'll have another opportunity to extend the transaction during that callback. If you return to the event loop without extending the transaction then it will become inactive, and so on. As long as there are pending requests the transaction remains active. Transaction lifetimes are really very simple but it might take a little time to get used to.
+After cloning the repo, simply create a pull request, or reach out to me on my GitHub Profile, or via my email provided, I would be more than happy to talk shop and collaborate on some projects!
 
 ## Tests
 
+```
+
 npm test
+
+```
 
 ## Questions
 
