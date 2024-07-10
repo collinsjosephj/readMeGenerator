@@ -1,10 +1,17 @@
-# readmegenerator
+# readMeGenerator
 
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-When defining the scope, specify only the object stores you need. This way, you can run multiple transactions with non-overlapping scopes concurrently.
+The readMeGenerator is a command line-based (CLI) application built with Node.js that helps developers create highly informative and professional README files for their projects. By responding to a series of prompts, users can quickly generate a well-structured README that includes all the essential sections. This tool is designed to save time and ensure consistency in project documentation, ultimately giving you more time to spend on other tasks that can take your project over the top. This application is tailored to incorporate these features:
+
+- **Interactive Prompts**: The application guides users through a series of prompts to gather necessary information about their project.
+
+
+
+
+
 
 ## Table of Contents
 
