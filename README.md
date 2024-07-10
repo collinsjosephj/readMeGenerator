@@ -45,6 +45,10 @@ This readMeGenerator CLI application empowers developers to create informative, 
 
 <img width="715" alt="Screenshot 2024-07-10 at 02 33 17" src="https://github.com/jakepears/readmeGenerator/assets/156174614/f6b77b56-3325-498f-a733-471c4463be93">
 
+## Link to Walk-Through Video
+
+[https://drive.google.com/file/d/1_mNmveazEtJmPzzN9v3TrjDOJ0majb-r/view?usp=sharing](url)
+
 ## Contributing
 
 After cloning the repo, simply create a pull request, or reach out to me on my GitHub Profile, or via my email provided, I would be more than happy to talk shop and collaborate on some projects!
