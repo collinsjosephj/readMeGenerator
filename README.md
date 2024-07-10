@@ -6,7 +6,8 @@
 
 The readMeGenerator is a command line-based (CLI) application built with Node.js that helps developers create highly informative and professional README files for their projects. By responding to a series of prompts, users can quickly generate a well-structured README that includes all the essential sections. This tool is designed to save time and ensure consistency in project documentation, ultimately giving you more time to spend on other tasks that can take your project over the top. This application is tailored to incorporate these features:
 
-- **Interactive Prompts**: The application guides users through a series of prompts to gather necessary information about their project.
+  - **Interactive Prompts**: The application guides users through a series of prompts to gather necessary information about their project.
+  - **Customizable Sections**: Users can include various sections such as titles, an in depth description of what the particular app is designed for, instructions for installation, the intended usage parameters, authors that have contributed, licensing details, how to run tests to ensure its capabilities, and how to reach out if you need support, have questions, or would like to collaborate on future development.
 
 
 
